@@ -1,0 +1,29 @@
+---
+title: "Teaching"
+callout-icon: false
+callout-appearance: minimal
+---
+
+::: callout-note
+[**Labor Economics** (EC 350)](https://github.com/kyleraze/EC350_Labor_Economics), University of Oregon. <br> *Instructor of record:* Winter 2022, Spring 2021, Summer 2018.
+
+This course applies insights from economic theory and real-world data to explore the causes of inequality in the labor market. Building upon concepts from introductory microeconomics, we will analyze the responses of workers and employers to changes in incentives, and consider the roles of policy, institutions, and other social phenomena in shaping labor market outcomes. As part of this line of inquiry, we will develop a toolkit that integrates theory and data, paying special attention to the ways in which we can identify---or fail to identify---causal relationships from data. Beyond refining their understanding of mechanisms that drive income inequality, successful students will leave the course with a framework for evaluating evidence and policy.
+
+[{{< bi github >}} Course materials](https://github.com/kyleraze/EC350_Labor_Economics){.btn .btn-outline-success .btn-sm}
+:::
+
+::: callout-note
+[**Introduction to Econometrics** (EC 320)](https://github.com/kyleraze/EC320_Econometrics), University of Oregon. <br> *Instructor of record:* Fall 2019, Summer 2019.
+
+This course introduces the statistical techniques that help economists learn about the world using data. Using calculus and introductory statistics, students will cultivate a working understanding of the theory underpinning regression analysis---*how* it works, *why* it works, and *when it can lead us astray*. As the course progresses, students will apply the insights of theory to work with and learn from actual data using `R`, a statistical programming language. My goal is for students to leave the course with marketable skills in data analysis and---most importantly---a more sophisticated understanding of the notion that correlation does not necessarily imply causation.
+
+[{{< bi github >}} Course materials](https://github.com/kyleraze/EC320_Econometrics){.btn .btn-outline-success .btn-sm}
+:::
+
+::: callout-note
+[**Principles of Microeconomics** (EC 201)](https://github.com/kyleraze/EC201_Microeconomics), University of Oregon. <br> *Instructor of record:* Winter 2020, Winter 2019. <br> *Teaching assistant:* Spring 2019, Fall 2018, Spring 2018, Spring 2017.
+
+The purpose of this course is to cultivate economic intuition. My goal is not to teach students *what to think*, but rather *how to think* as economists. The course considers how social outcomes are shaped by the decisions of many individuals, even though each individual commands only a small fraction of the economy. Expanding upon the notion that individuals respond to incentives, students will use models to analyze and assess a variety of social phenomena. Successful students will leave the course with an intellectual framework for understanding and evaluating economic issues and policy.
+
+[{{< bi github >}} Course materials](https://github.com/kyleraze/EC201_Microeconomics){.btn .btn-outline-success .btn-sm}
+:::

@@ -1,0 +1,15 @@
+{
+  "hash": "c21976fba147a4bf23b8a247b20be5d3",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Research\"\ncallout-icon: false\ncallout-appearance: minimal\n---\n\n\n\n\n## Publications\n\n\n\n\n```{=html}\n\n<details>\n  <summary>Publication Title 1 (2023)</summary>\n  <div class=\"publication-content\">\n    <p><strong>Authors:</strong> Author 1, Author 2</p>\n    <p><strong>Journal:</strong> <a href=\"https://journal1.com\">Journal Name 1</a></p>\n    <div class=\"publication-links\">\n      <a href=\"https://example.com/paper1.pdf\">PDF</a> | \n      <a href=\"https://example.com/appendix1.pdf\">Appendix</a> | \n      <a href=\"https://github.com/user/repo1\">Code</a> | \n      <a href=\"https://media.com/article1\">Media</a>\n    </div>\n    <div class=\"publication-abstract\">\n      <h4>Abstract</h4>\n      <p>Abstract for publication 1...</p>\n    </div>\n    <div class=\"publication-figure\">\n      <h4>Key Figure</h4>\n      <img src=\"figure1.png\" alt=\"Key Figure\">\n    </div>\n  </div>\n</details>\n\n```\n```{=html}\n\n<details>\n  <summary>Publication Title 2 (2022)</summary>\n  <div class=\"publication-content\">\n    <p><strong>Authors:</strong> Author 1, Author 3</p>\n    <p><strong>Journal:</strong> <a href=\"https://journal2.com\">Journal Name 2</a></p>\n    <div class=\"publication-links\">\n      <a href=\"https://example.com/paper2.pdf\">PDF</a> | \n      <a href=\"https://example.com/appendix2.pdf\">Appendix</a> | \n      <a href=\"https://github.com/user/repo2\">Code</a> | \n      <a href=\"https://media.com/article2\">Media</a>\n    </div>\n    <div class=\"publication-abstract\">\n      <h4>Abstract</h4>\n      <p>Abstract for publication 2...</p>\n    </div>\n    <div class=\"publication-figure\">\n      <h4>Key Figure</h4>\n      <img src=\"figure2.png\" alt=\"Key Figure\">\n    </div>\n  </div>\n</details>\n\n```\n\n\n\n\nKyle Raze. 2022. [\"Voting Rights and the Resilience of Black Turnout.\"](files/Raze_2022_EconInq_VotingRights.pdf) *Economic Inquiry.*\n\n[*CNN*](https://www.cnn.com/2021/03/28/politics/voting-rights-georgia-souls-polls-blake/index.html){.btn .btn-light .btn-sm .target=\"_blank\"}\n\n::: {.callout collapse=\"true\"}\n### Abstract\n\nThe Voting Rights Act of 1965 increased turnout among Black voters, which then generated economic benefits for Black communities. In *Shelby County v. Holder* (2013), the Supreme Court invalidated the enforcement mechanism responsible for these improvements, prompting concerns that states with histories of discriminatory election practices would respond by suppressing Black turnout. I estimate the effect of the *Shelby* decision on the racial composition of the electorate using triple-difference comparisons of validated turnout data from the Cooperative Congressional Election Study. The data suggest that the *Shelby* decision did not widen the Black-white turnout gap in states subject to the ruling.\n:::\n\n## Working papers\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
