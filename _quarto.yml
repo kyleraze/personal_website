@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Kyle Raze"
+  favicon: logo.png
   search: false
   navbar:
     right:
