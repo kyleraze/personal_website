@@ -5,6 +5,22 @@ callout-appearance: minimal
 lightbox: true
 ---
 
+## Working papers
+
+::: {.callout-note}
+**2026**, "[Non-Random Assignment of Individual Identifiers and Selection into Linked Data: Implications for Research](https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-06.html)," *Center for Economic Studies Working Paper No. 26-06* (with Nicole Perales and Christin Landivar). 
+
+<div>
+
+The U.S. Census Bureau’s Person Identification Validation System facilitates anonymous linkages between survey and administrative records by assigning Protected Identification Keys (PIKs) to person records. While PIK assignment is generally accurate, some person records are not successfully assigned a PIK, which can lead to sample selection bias in analyses of linked data. Using the American Community Survey (ACS) and the Current Population Survey Annual Social and Economic Supplement (CPS ASEC) between 2005 and 2022, we corroborate and extend existing findings on the drivers of PIK assignment, showing that the rate of PIK assignment varies widely across socio-demographic subgroups. Using earnings as a test case, we then show that limiting a survey sample of wage earners to person records with PIKs or successful linkages to W-2 wage records tends to overestimate self-reported wage earnings, on average, indicative of linkage-induced selection bias. In a validation exercise, we demonstrate that reweighting methods, such as inverse probability weighting or entropy balancing, can mitigate this bias. 
+
+</div>
+
+[{{< bi file-pdf >}} Manuscript](files/RazePeralesLandivar_2026_CES_SelectionLinkedData.pdf){.btn .btn-outline-success .btn-sm}
+:::
+
+## Publications
+
 ::: {.callout-note}
 **2024**, "[Does the Salience of Race Mitigate Gaps in Disciplinary Outcomes? Evidence from School Fights](files/RazeWaddell_Salience-of-Race_EER_2024.pdf)," *Economics of Education Review* (with Glen Waddell). 
 
